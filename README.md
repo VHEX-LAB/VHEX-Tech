@@ -18,4 +18,5 @@ CUDA : 11.1
 see https://pytorch.org/get-started/locally/
 ## 4.how to run
 run BinarySentiment.ipynb with jupyter notebook/jupyter lab
-
+### 4.1 warning
+for SST, we've used google cloud api(https://cloud.google.com/speech-to-text), which requires specific blueprint, to follow what i can do, you'll need to sign in gcloud console
