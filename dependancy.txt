@@ -4,3 +4,4 @@ pytorch==1.8.1
 numpy
 pandas
 pytorch_transformers
+pyaudio
